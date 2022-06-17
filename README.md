@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henriquecolaco
+- 👋 Hi, I’m @henriquecolaco a Frontend Developer - Javascript - React
 - 📫 henriquecolacocruz@gmail.com
 
 <!---
